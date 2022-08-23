@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Clouds in August"
 date:   2022-08-21 20:47:27 +0200
-categories: jekyll update
+categories: photo blog
 ---
+
+https://lh3.googleusercontent.com/PzsMbH3AyL2zZvMagOO_vtWL7zybS2h6lfe1bBytkaR1zhPZaDw51IZTMUI7GivmfKh2NGYiFHOrfpG2Jl6HpPUwVVGZUimsLegF3agpf2_iSLgWA_VtNc69spsbnhvawibfm6Fj064=w2400
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
