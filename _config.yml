@@ -17,8 +17,8 @@ title: Delta Experiment
 email: pete-mba5@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Delta test
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/_posts" # the subpath of your site, e.g. /blog
+url: "https://github.com/pete-mba5/delta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
