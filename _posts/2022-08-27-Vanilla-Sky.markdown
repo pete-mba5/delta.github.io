@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Clouds in August"
-date:   2022-08-21 20:47:27 +0200
+title:  "Vanilla Sky"
+date:   2022-08-27 20:47:27 +0200
 categories: photo blog
 ---
 # One step beyond
 ## This will help to improve my photography skills and remember past days
 
-### Mon 2022.08.01
+### Mon 2022.08.27
 ![Vanilla sky](https://lh3.googleusercontent.com/mE5km33v4R4_0-incafjkMKrVH-qhNDrDHDwZJvTogvjgUAGaSzbsXR6aGDTBPARoAkuUT-sn2tbpM4hvOvLcCdbiuXxLE6UBfL5sAfXV7epc8UX5geA9tcJe6fpIMitx52BwSEYWEM=w2400)*Vanilla Sky*&nbsp;
 
 
